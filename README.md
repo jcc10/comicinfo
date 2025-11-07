@@ -1,4 +1,7 @@
-# ComicInfo.xml
+# ComicInfo.xml [Batch Archive Proposal]
+
+## Proposal
+This branch is meant to contain a copy of the modifications that would be required to add support for tagging when a archive has a batch of comics within it
 
 ## What is it?
 
