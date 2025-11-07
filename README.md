@@ -1,7 +1,15 @@
 # ComicInfo.xml [Batch Archive Proposal]
 
 ## Proposal
-This branch is meant to contain a copy of the modifications that would be required to add support for tagging when a archive has a batch of comics within it
+This branch is meant to contain a copy of the modifications that would be required to add support for tagging when a archive has a batch of comics within it.
+
+### What is this meant to fix
+There are times when a CBZ may contain more than one issue from a comic. This is meant to allow signifying that a item may cover multiple sequential issue places.
+
+Situations this may be needed:
+
+* Comic is serialised weekly and at the end of every quarter a paperback is released grouping all of them together.
+* Batch archival of comics.
 
 ## What is it?
 
